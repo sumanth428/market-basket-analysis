@@ -1,0 +1,1 @@
+rules.to_csv('association_rules.csv', index=False)
